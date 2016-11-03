@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EBC252FD1DC0C51D00214F14"
-               BuildableName = "AlgoritmA.app"
-               BlueprintName = "AlgoritmA"
-               ReferencedContainer = "container:AlgoritmA.xcodeproj">
+               BlueprintIdentifier = "5075334E68249830585D58446D7AC6AD"
+               BuildableName = "SnapKit.framework"
+               BlueprintName = "SnapKit"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EBC252FD1DC0C51D00214F14"
-            BuildableName = "AlgoritmA.app"
-            BlueprintName = "AlgoritmA"
-            ReferencedContainer = "container:AlgoritmA.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,23 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EBC252FD1DC0C51D00214F14"
-            BuildableName = "AlgoritmA.app"
-            BlueprintName = "AlgoritmA"
-            ReferencedContainer = "container:AlgoritmA.xcodeproj">
+            BlueprintIdentifier = "5075334E68249830585D58446D7AC6AD"
+            BuildableName = "SnapKit.framework"
+            BlueprintName = "SnapKit"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
-      <EnvironmentVariables>
-         <EnvironmentVariable
-            key = "OS_ACTIVITY_MODE"
-            value = "disable"
-            isEnabled = "YES">
-         </EnvironmentVariable>
-      </EnvironmentVariables>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -77,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EBC252FD1DC0C51D00214F14"
-            BuildableName = "AlgoritmA.app"
-            BlueprintName = "AlgoritmA"
-            ReferencedContainer = "container:AlgoritmA.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
